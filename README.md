@@ -54,6 +54,7 @@ In order to preserve the variable, create an alias for sudo named 'sudopy' as fo
 Enjoy!
          
 Contact: Muhammad Shahbaz 
+
 lastname (at) cc (dot) gatech (dot) edu
          
     
