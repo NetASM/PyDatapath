@@ -53,7 +53,7 @@ def test():
     net.start()
 
     for s in net.switches:
-        s.policy("pydatapath.modules.p4_xtag_v1")
+        s.policy("pydatapath.modules.pass_through")
 
     if '--cli' in sys.argv:
         CLI(net)
