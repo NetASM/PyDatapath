@@ -55,7 +55,7 @@ Enjoy!
          
 Contact: Muhammad Shahbaz 
 
-lastname (at) cc (dot) gatech (dot) edu
+Email: lastname (at) cc (dot) gatech (dot) edu
          
     
 
