@@ -30,7 +30,7 @@ Instructions for installing pydatapath on the Mininet VM using VirualBox.
 5. Clone the pydatapath repository to your home directory.
          
          $ cd ~   
-         $ git clone https://github.gatech.edu/NetASM/pydatapath.git
+         $ git clone https://github.com/NetASM/Pydatapath.git
          
 6. Setup your environment variables by adding the following lines to end of .profile:
 
