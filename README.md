@@ -1,4 +1,4 @@
-Pydatapath
+PyDatapath
 ==========
 
 Instructions for installing pydatapath on the Mininet VM using VirualBox.
